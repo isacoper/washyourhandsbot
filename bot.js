@@ -1,3 +1,4 @@
+
 var twit = require('twit'); // require the lib
 var config = require('./config.js'); // require the configurations
 const randomItem = require('random-item');
